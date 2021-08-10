@@ -11,7 +11,7 @@ email : gens0310@naver.com
 
 | Activity |          Period           | Institution |
 | :------: | :-----------------------: | :---------: |
-| Big Data | 2021.07.26. ~ 2021.12.09. | Multicampus |
+| Develop Intelligent Services Based on Big Data | 2021.07.26. ~ 2021.12.09. | Multicampus(Samsung) |
 
 | Project |          Period           | Institution |
 | :-----: | :-----------------------: | :---------: |
