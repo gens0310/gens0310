@@ -6,8 +6,6 @@ email : gens0310@naver.com
 |    C++     | 2011.04. ~ |
 |    JAVA    | 2012.03. ~ |
 |   Python   | 2012.03. ~ |
-|  HTML/CSS  | 2011.04. ~ |
-| JavaScript | 2011.04. ~ |
 
 | Activity |          Period           | Institution |
 | :------: | :-----------------------: | :---------: |
