@@ -13,4 +13,4 @@ email : gens0310@naver.com
 
 | Project |          Period           | Institution |
 | :-----: | :-----------------------: | :---------: |
-| - | ... ~ ... | - |
+| K-FOOD AI Service for Foreigners | 2021.11.29. ~ 2021.12.09. | Multicampus(Samsung) |
