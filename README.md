@@ -1,5 +1,5 @@
 eMail : gens0310@naver.com  
-BLOG : https://blog.naver.com/gens0310  
+Blog : https://blog.naver.com/gens0310  
 YouTube : https://www.youtube.com/channel/UCG23igm_2OrUL8--eaNxZdA  
 
 | Activity |          Period           | Institution |
